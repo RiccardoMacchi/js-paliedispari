@@ -27,5 +27,12 @@ function somma(a,b){
     return a + b
 }
 
+// Funzione Pari o Dispari
+
+function evenOdd(somma){
+    if (somma % 2 === 0){
+        return true
+    }
+}
 
 
